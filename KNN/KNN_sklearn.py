@@ -22,7 +22,7 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
 
 from sklearn.neighbors import KNeighborsClassifier
 
-knn_clf = KNeighborsClassifier(n_neighbors=3)
+knn_clf = KNeighborsClassifier(n_neighbors=5)
 knn_clf.fit(X_train, y_train)
 print(knn_clf.score(X_test, y_test))
 
