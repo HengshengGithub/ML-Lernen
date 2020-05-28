@@ -4,7 +4,7 @@ Created on Wed May 27 17:06:47 2020
 
 @author: samue
 """
-# Mit Grid Search
+# Mit Grid Search 调参
 
 from sklearn import datasets
 from sklearn.model_selection import GridSearchCV
