@@ -6,7 +6,6 @@ Created on Wed May 27 14:03:30 2020
 """
 # sklearn mit knn und test_split fuer datasets_digits
 
-import numpy as np
 from sklearn import datasets
 
 digits = datasets.load_digits()
