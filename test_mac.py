@@ -10,3 +10,5 @@ Created on Sun May 31 13:43:33 2020
 ## test for Github
 
 print('Hallo Github')
+print("new hallo for github")
+print("test")
