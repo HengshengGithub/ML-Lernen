@@ -2,7 +2,7 @@
 """
 Created on Thu May 28 15:52:53 2020
 
-@author: samue
+@author: Hengsheng Huang
 """
 
 ## LinearRegression in sklearn for Boston

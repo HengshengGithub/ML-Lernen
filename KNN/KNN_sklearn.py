@@ -2,7 +2,7 @@
 """
 Created on Wed May 27 14:03:30 2020
 
-@author: samue
+@author: Hengsheng Huang
 """
 # sklearn mit knn und test_split fuer datasets_digits
 

@@ -2,7 +2,7 @@
 """
 Created on Wed May 27 17:06:47 2020
 
-@author: samue
+@author: Hengsheng Huang
 """
 # Mit Grid Search 调参
 

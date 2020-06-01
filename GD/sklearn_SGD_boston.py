@@ -2,7 +2,7 @@
 """
 Created on Sun May 31 10:13:45 2020
 
-@author: samue
+@author: Hengsheng Huang
 """
 
 ## sklearn SGD for boston
